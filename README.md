@@ -1,1 +1,1 @@
-# 3rd-indl-proj-mole-detection
+# Mole detection app for skinCare 
