@@ -1,25 +1,25 @@
 # Mole detection app for skinCare 
 
 
-**###Description###**
+## Description
 
 
-**###Installation###**
+## Installation
 
 
-**###Usage###**
+## Usage
 
 
-**###Visual###**
+## Visual
 
 
-**###Contributor###**
+## Contributor
 
 
-**###Timeline)###**
+## Timeline
 
 
-**###Personal situation###**
+## Personal situation
 
 
-**###Pending things to do###**
+## Pending things to do
