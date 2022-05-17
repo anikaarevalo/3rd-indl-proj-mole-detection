@@ -15,7 +15,7 @@ I. **Data Augmentation using Keras** to augment training data during pre-process
 
 II. **Keras Callbacks** while compiling the model during training phase ; and
 
-III. **TensorFlow.js.** 
+III. (Models run locally in the browser, meaning that the user’s data never leaves their computer.)
 
 
 ## Installation
@@ -32,7 +32,7 @@ The following software and tools were utilised in this project:
 - Keras
 
 3. Web application deployment
-- Tensorflow.js
+- 
 
 ## Usage
 This is an easily-accessible yet effective **application that accurately detects and classifies skin lesions based on a photographic image**. At this stage of the product cycle development, it is **a proof of concept that skinCare can show to their clients, such as dermatologists,** who are open to leveraging AI in their own practice. 
