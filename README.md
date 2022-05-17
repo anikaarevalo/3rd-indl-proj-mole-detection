@@ -5,7 +5,7 @@
 skinCare, a healthcare company, is in the process of launching **an AI solution that classifies skin lesions**. The company plans on presenting a prototype to their clients (i.e. professionals and experts in the field of skin medicine) whose patients stand to benefit from a tool that would be able to detect moles that need to be handled by doctors.
 
 
-<img width="668" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/3rd-indl-proj-mole-detection/blob/ae037cefed1fe4db8dec3f6b16b501395b7e64fc/assets/prototype.png
+<img width="400" src="https://github.com/anikaarevalo/3rd-indl-proj-mole-detection/blob/ae037cefed1fe4db8dec3f6b16b501395b7e64fc/assets/prototype.png
 ">
 
 
