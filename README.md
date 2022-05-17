@@ -45,6 +45,7 @@ Anika Arevalo, Junior Data Scientist⚛️ (BeCode, Ghent)
 
 ## Timeline
 8 days
+
 16/05/2022 - 25/05/2022
 
 ## Personal situation
