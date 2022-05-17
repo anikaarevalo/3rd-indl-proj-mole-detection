@@ -131,3 +131,7 @@ dmypy.json
 # Raw data set from kaggle
 full/
 csvs/
+
+# Created folders containing images
+aug_dir/
+base_dir/
