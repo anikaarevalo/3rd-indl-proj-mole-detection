@@ -130,3 +130,4 @@ dmypy.json
 
 # Raw data set from kaggle
 full/
+csvs/
