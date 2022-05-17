@@ -4,9 +4,7 @@
 ## Description
 skinCare, a healthcare company, is in the process of launching **an AI solution that classifies skin lesions**. The company plans on presenting a prototype to their clients (i.e. professionals and experts in the field of skin medicine) whose patients stand to benefit from a tool that would be able to detect moles that need to be handled by doctors.
 
-As a data scientist contracted for the job, my task is to **build and deploy a machine learning pipeline** with the goal of delivering to my client an easily-accessible yet effective **application that accurately detects and classifies skin lesions based on a photographic image**. 
-
-My approach to this short mission is **transfer Learning using a pre-trained deep learning model called MobileNet for image classification**. To create an end-to-end machine learning solution, I first started by downloading the HAM10000 dataset from Kaggle which were the raw materials from which a web app to classify skin lesions is based on. 
+As the data scientist contracted for the job, my approach to this short mission is **transfer Learning using a pre-trained deep learning model called MobileNet for image classification**. To create an end-to-end machine learning solution, I first started by downloading the HAM10000 dataset from Kaggle which were the raw materials from which a web app to classify skin lesions is based on. 
 
 Suffice it to say, the **key components of my machine learning pipeline are:** 
 
@@ -36,7 +34,7 @@ The following software and tools were utilised in this project:
 - Tensorflow.js
 
 ## Usage
-
+This is an easily-accessible yet effective **application that accurately detects and classifies skin lesions based on a photographic image**. At this stage of the product cycle development, it is a proof of concept that skinCare can show to their clients such as dermatologists who are open to leveraging AI in their own practice. 
 
 ## Visuals
 
