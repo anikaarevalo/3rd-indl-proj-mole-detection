@@ -10,6 +10,7 @@ Suffice it to say, the **key components of my machine learning pipeline are:**
 
 
 
+
 I. **Data Augmentation using Keras** to augment training data during pre-processing;
 
 II. **Keras Callbacks** while compiling the model during training phase ; and
@@ -34,7 +35,7 @@ The following software and tools were utilised in this project:
 - Tensorflow.js
 
 ## Usage
-This is an easily-accessible yet effective **application that accurately detects and classifies skin lesions based on a photographic image**. At this stage of the product cycle development, it is a proof of concept that skinCare can show to their clients such as dermatologists who are open to leveraging AI in their own practice. 
+This is an easily-accessible yet effective **application that accurately detects and classifies skin lesions based on a photographic image**. At this stage of the product cycle development, it is a proof of concept that skinCare can show to their clients, such as dermatologists, who are open to leveraging AI in their own practice. 
 
 ## Visuals
 
