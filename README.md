@@ -10,6 +10,10 @@
 
 As the data scientist contracted for the job, my approach to this short mission is **transfer Learning using a pre-trained deep learning model called MobileNet for image classification**. To create an end-to-end machine learning solution, I first started by downloading the HAM10000 dataset from Kaggle which were the raw materials from which a web app to classify skin lesions is based on. 
 
+
+
+
+
 Suffice it to say, the **key components of my machine learning pipeline are:** 
 
 
