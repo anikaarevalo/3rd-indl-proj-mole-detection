@@ -1,4 +1,4 @@
-# Mole detection app for skinCare 
+# Mole detection AI app for skinCare 
 
 
 ## Description
