@@ -9,6 +9,7 @@ As the data scientist contracted for the job, my approach to this short mission 
 Suffice it to say, the **key components of my machine learning pipeline are:** 
 
 
+<img width="668" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/3rd-indl-proj-mole-detection/blob/2cb7df413f6427dfadc0db57f97e852fd205fba8/assets/ML_deploy.jpeg">
 
 
 I. **Data Augmentation using Keras** to augment training data during pre-processing;
