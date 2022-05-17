@@ -15,7 +15,7 @@ I. **Data Augmentation using Keras** to augment training data during pre-process
 
 II. **Keras Callbacks** while compiling the model during training phase ; and
 
-III. (Models run locally in the browser, meaning that the user’s data never leaves their computer.)
+III. (Models run locally in the browser, meaning that the user’s data never leaves their device.)
 
 
 ## Installation
