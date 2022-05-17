@@ -6,7 +6,7 @@
 
 <img width="668" src="https://github.com/anikaarevalo/3rd-indl-proj-mole-detection/blob/150e1e90ca0d19021bd9b437a036cccd73ca3d0e/assets/app.png">
 
-As the data scientist contracted for the job, my approach to this short mission is **transfer Learning using a pre-trained deep learning model called MobileNet for image classification**. To create an end-to-end machine learning solution, I first started by downloading the HAM10000 dataset from Kaggle which were the raw materials from which a web app to classify skin lesions is based on. 
+As the data scientist contracted for the job, my approach to this short mission is **transfer learning using a pre-trained deep learning model called MobileNet for image classification**. To create an end-to-end machine learning solution, I first started by downloading the HAM10000 dataset from Kaggle which were the raw materials from which a web app to classify skin lesions is based on. 
 
 
 <img width="1000" alt="pipeline 2022-04-21 at 15 49 28" src="https://github.com/anikaarevalo/3rd-indl-proj-mole-detection/blob/1bc14242324b1a28bcafe6e9b70d25490d677caf/assets/TL_workflow.png">
