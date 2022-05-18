@@ -66,3 +66,7 @@ Anika Arevalo, Junior Data Scientist⚛️ (BeCode, Ghent)
 
 
 ## Pending things to do
+- Methods to improve performance metric to minimize the tendency of a deep learning model to overfit
+- Methods to increase predictive power of the model per class
+- Use other deep models that are more effective and efficient 
+- Develop this mole detection app prototype into a full-fledged minimum viable product 
