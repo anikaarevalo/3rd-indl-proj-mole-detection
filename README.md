@@ -50,7 +50,7 @@ This is an easily-accessible yet effective **application that accurately detects
 ## Visuals
 **A light visual exploratory analysis of the metadata of skin lesions**
 
-
+<img width="668" src="https://github.com/anikaarevalo/3rd-indl-proj-mole-detection/blob/fc6260b3adebd658dcff3b706e68eea4bb96e4e7/assets/benchmark_skin_lesion_dataset.png">
 
 This dataset consists of seven different types of skin diseases: actinic keratoses and intraepithelial carcinoma (**AKIEC**), basal cell carcinoma (**BCC**), benign keratosis-like lesions (**BKL**), dermatofibroma (**DF**), melanoma (**MEL**), melanocytic Nevi (**NV**), and vascular lesions (**VASC**). ***This bar plot shows that the distribution of samples is uneven, and this knowledge is taken into account in the pre-processing phase of the machine learning pipeline.*** 
 
