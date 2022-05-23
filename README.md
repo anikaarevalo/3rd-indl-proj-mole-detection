@@ -30,18 +30,19 @@ III. (Models run locally in the browser, meaning that the user’s data never le
 The following software and tools were utilised in this project:
 
 1. Data analysis
+- Google Drive
 - Python 3.9 or higher
 - Pandas and Numpy
 - Matplotlib 
 
 2. Machine learning
+- Google Colab
 - Scitkit Learn
 - Tensorflow 2.3.0
 - Keras
 
 3. Web application deployment
-- 
-
+- Flask
 
 
 ## Usage
