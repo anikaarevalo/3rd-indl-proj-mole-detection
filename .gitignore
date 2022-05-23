@@ -137,3 +137,6 @@ csvs/
 # Created folders containing images
 aug_dir/
 base_dir/
+
+# Saved model folder using tensorflow SaveModel format
+my_model/
