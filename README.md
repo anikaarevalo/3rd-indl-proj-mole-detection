@@ -55,6 +55,8 @@ This is an easily-accessible yet effective **application that accurately detects
 This dataset consists of seven different types of skin diseases: actinic keratoses and intraepithelial carcinoma (**AKIEC**), basal cell carcinoma (**BCC**), benign keratosis-like lesions (**BKL**), dermatofibroma (**DF**), melanoma (**MEL**), melanocytic Nevi (**NV**), and vascular lesions (**VASC**). ***This bar plot shows that the distribution of samples is uneven, and this knowledge is taken into account in the pre-processing phase of the machine learning pipeline.*** 
 
 
+**Pre-trained MobileNetv2 and transfer learning**
+
 <img width="500" src="https://github.com/anikaarevalo/3rd-indl-proj-mole-detection/blob/b4526088088ea5b4deab0b71c229e47f61864b5b/assets/Evaluation_report_MobileNetv2_skin_lesion_classifier.png">
 
 The **re-trained MobileNetv2 model** has modest performance and that **a significant number of test examples for label nv were classified correctly**. The model mostly predicts nv (324) and mel (105) correctly, but struggles with akiec and df. The model confuses mel with nv (328), bkl (102), bcc (44) and akiec (32). The model still has much more room for improvement
