@@ -57,7 +57,7 @@ This dataset consists of seven different types of skin diseases: actinic keratos
 
 <img width="500" src="https://github.com/anikaarevalo/3rd-indl-proj-mole-detection/blob/b4526088088ea5b4deab0b71c229e47f61864b5b/assets/Evaluation_report_MobileNetv2_skin_lesion_classifier.png">
 
-The re-trained MobileNetv2 model has modest performance and that **a significant number of test examples for label nv were classified correctly**. The model mostly predicts nv (324) and mel (105) correctly, but struggles with akiec and df. The model confuses mel with nv (328), bkl (102), bcc (44) and akiec (32). The model still has much more room for improvement
+The **re-trained MobileNetv2 model** has modest performance and that **a significant number of test examples for label nv were classified correctly**. The model mostly predicts nv (324) and mel (105) correctly, but struggles with akiec and df. The model confuses mel with nv (328), bkl (102), bcc (44) and akiec (32). The model still has much more room for improvement
 
 ## Contributor
 Anika Arevalo, Junior Data Scientist⚛️ (BeCode, Ghent)
