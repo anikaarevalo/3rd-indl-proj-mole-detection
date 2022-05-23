@@ -41,7 +41,7 @@ The following software and tools were utilised in this project:
 - Tensorflow 2.3.0
 - Keras
 
-3. Web application deployment
+3. API deployment (locally and/or mobile)
 - Flask
 
 
