@@ -83,7 +83,7 @@ The client's request appeared to be straightforward initially i.e. there is dema
 
 ## Pending things to do
 - Methods to improve performance metrics so as to minimize the tendency of a deep learning model to overfit
-- Methods to increase predictive power of the model per class (finer tuning of hyperparameters may help). 
+- Methods to increase predictive power of the model per class (finer tuning of hyperparameters may help) 
 - Use other deep learning models that are more effective and efficient 
 - Deploy API not only locally but also as a bonafide mobile app
 - Develop this mole detection app prototype into a full-fledged minimum viable product 
