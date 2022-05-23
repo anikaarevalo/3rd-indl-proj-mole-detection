@@ -66,7 +66,10 @@ Anika Arevalo, Junior Data Scientist⚛️ (BeCode, Ghent)
 
 
 ## Personal situation
+The client's request appeared to be straightforward initially i.e. there is demand in the market for a mobile app that can detect skin cancer. But having taken a good look at the available benchmark data sourced from Kaggle, classifying skin cancer on the basis of 7 pre-determined skin diseases is no simple matter. That and the limitations of my existing resources such as hardware (e.g. my computer does not possess a GPU which is ideal for providing optimal accuracy for deep learning algorithms) were carefully taken into account especially during the re-training phase of my chosen pre-trained CNN. 
 
+(Create the requested product.)
+(Deploy the product.)
 
 
 ## Pending things to do
