@@ -20,9 +20,9 @@ Suffice it to say, the **key components of this machine learning API pipeline ar
 
 I. **Data Augmentation using Keras** to augment training data during pre-processing;
 
-II. **Keras Callbacks** while compiling the model during training phase ; and
+II. **Keras Callbacks** while compiling the model during training phase in order to capture the 'best' version of the model in training ; and
 
-III. (Models run locally in the browser, meaning that the user’s data never leaves their device.)
+III. The predictive deep learning model runs locally in the browser (there are advantages to local deployment where the user’s data never leaves their device.) or deployed via a platform such as Heroku.
 
 
 
