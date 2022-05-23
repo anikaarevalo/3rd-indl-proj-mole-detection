@@ -76,4 +76,5 @@ The client's request appeared to be straightforward initially i.e. there is dema
 - Methods to improve performance metrics so as to minimize the tendency of a deep learning model to overfit
 - Methods to increase predictive power of the model per class
 - Use other deep learning models that are more effective and efficient 
+- Deploying API not only locally but also as a mobile app
 - Develop this mole detection app prototype into a full-fledged minimum viable product 
