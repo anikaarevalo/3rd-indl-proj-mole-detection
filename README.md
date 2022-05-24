@@ -75,15 +75,13 @@ Anika Arevalo, Junior Data Scientist⚛️ (BeCode, Ghent)
 
 
 ## Personal situation
-The client's request appeared to be straightforward initially i.e. there is demand in the market for a mobile app that can detect skin cancer. But having taken a good look at the available benchmark data sourced from Kaggle, ***classifying skin cancer on the basis of 7 pre-determined skin lesion categories is no simple matter.*** That and the limitations of my resources such as hardware (e.g. my computer does not possess a GPU which is ideal for providing optimal accuracy for deep learning algorithms) were carefully taken into account especially during the re-training phase of my chosen pre-trained CNN. 
-
-(Create the requested product.)
-(Deploy the product.)
+The client's request appeared to be straightforward initially i.e. there is demand in the market for a mobile app that can detect skin cancer. But having taken a good look at the available benchmark data sourced from Kaggle, ***classifying skin cancer on the basis of 7 pre-determined skin lesion categories is no simple matter.*** That and the limitations of my resources such as hardware (e.g. my computer does not possess a GPU which is ideal for providing optimal accuracy for deep learning algorithms) were taken into account especially during the re-training phase of my chosen pre-trained CNN. 
 
 
 ## Pending things to do
+- Cleaning the code (due to storage issues of the contributor's pc, notebooks were migrated from jupyter to Google colab on the fly). 
 - Methods to improve performance metrics so as to minimize the tendency of a deep learning model to overfit
-- Methods to increase predictive power of the model per class (finer tuning of hyperparameters may help) 
+- **Methods to increase predictive power of the model per class** (the model needs to be properly trained).
 - Use other deep learning models that are more effective and efficient 
 - Deploy API not only locally but also as a bonafide mobile app
 - Develop this mole detection app prototype into a full-fledged minimum viable product 
