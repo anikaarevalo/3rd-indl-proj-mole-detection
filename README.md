@@ -22,7 +22,7 @@ I. **Data Augmentation using Keras** to augment training data during pre-process
 
 II. **Keras Callbacks** while compiling the model during training phase in order to capture the 'best' version of the model in training ; and
 
-III. The predictive deep learning model runs locally in the browser (there are advantages to local deployment where the user’s data never leaves their device.) or deployed via a platform such as Heroku.
+III. The predictive deep learning model runs locally in the browser (there are advantages to local deployment where the user’s data never leaves their device) or deployed via a platform such as Heroku.
 
 
 
