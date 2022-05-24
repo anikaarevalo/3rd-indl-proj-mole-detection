@@ -86,7 +86,8 @@ The client's request appeared to be straightforward initially i.e. there is dema
 
 
 ## Pending things to do
-- Cleaning the code (due to storage issues of the contributor's pc, notebooks were migrated from jupyter to Google colab on the fly). 
+- Cleaning the code (due to storage issues of the contributor's pc, notebooks were migrated from jupyter to Google colab on the fly. That being said,
+I stopped leveraging Git ops and its versioning capabilities in the middle of this project :( .)
 - Methods to improve performance metrics so as to minimize the tendency of a deep learning model to overfit
 - **Methods to improve predictive power of the model per class** (the model needs to be properly trained).
 - Use other deep learning models that are more effective and efficient 
