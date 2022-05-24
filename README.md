@@ -42,7 +42,7 @@ The following software and tools were utilised in this project:
 - Keras
 
 3. API deployment (locally and/or mobile)
-- Flask
+- Streamlit
 
 
 ## Usage
