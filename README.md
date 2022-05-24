@@ -67,7 +67,8 @@ The **re-trained MobileNetv2 model** has modest performance and that **a signifi
 
                                   Model prediction on a sample skin lesion image
                                   
-*
+<img width="500" src="https://github.com/anikaarevalo/3rd-indl-proj-mole-detection/blob/e3bbd38958c12afa40a67daf6fe915a6447d4090/assets/vasc_sample.png">
+
 
 
 ## Contributor
