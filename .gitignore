@@ -140,3 +140,4 @@ base_dir/
 
 # Saved model folder using tensorflow SaveModel format
 my_model/
+/mymodel.h5
